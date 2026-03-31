@@ -1,6 +1,6 @@
 <!-- 🔥 CYBERPUNK HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#000000,100:000000&height=250&section=header&text=MOHAMMAD%20AMAAN%20WARIS&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=250&section=header&text=MOHAMMAD%20AMAAN%20WARIS&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h3 align="center">
