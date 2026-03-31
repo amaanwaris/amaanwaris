@@ -100,9 +100,11 @@
 
 ### 🌐 Client-Server using Sockets
 
-- Built scalable system handling **30,000+ clients**  
-- Used **TCP/IP socket programming**  
-- Applied **thread-based concurrency**
+<div style="background-color:#0d1117; padding:15px; border-radius:10px; border:1px solid #00F7FF;">
+⚡ 30,000+ clients handled
+⚡ TCP/IP sockets
+⚡ Thread-based concurrency
+</div
 
 ---
 
@@ -116,36 +118,26 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amaanwaris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00D4FF&text_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amaanwaris&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amaanwaris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaanwaris&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaanwaris&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" /> </p>
 
 ---
 
 ## 🎓 Education
-
+  <div style="background-color:#0d1117; padding:15px; border-radius:10px; border:1px solid #00F7FF;">
 - 🎓 B.Tech CSE - Maulana Azad National Urdu University (2022–2026)  
 - ⚡ Diploma in Electrical Engineering - Jamia Millia Islamia  
+</div>
 
 ---
 
 ## 🏆 Achievements
-
+<div style="background-color:#0d1117; padding:15px; border-radius:10px; border:1px solid #00F7FF;">
 - 🚀 Founding Member - E-CELL MANUU  
 - 🎯 Training & Placement Coordinator  
-
+</div>
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amaanwaris&label=Profile%20views&color=00D4FF&style=flat" />
-</p>
+👁 Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amaanwaris&label=Profile%20Views&color=00F7FF&style=flat" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Building+low-level+systems+that+power+high-level+innovation;Think+in+C,+Control+the+System+⚡" /> </p> <!-- 🔥 FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00F7FF&height=120&section=footer"/> </p> ```
 
----
-
-<p align="center">
-  ⚡ <b>"Building low-level systems that power high-level innovation"</b>
-</p>
