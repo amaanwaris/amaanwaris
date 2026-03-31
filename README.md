@@ -1,5 +1,6 @@
+<h1 align="center">Hey there, I'm Mohammad Amaan Waris 👋</h1>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hey+there,+I'm+Mohammad+Amaan+Waris+👋;Embedded+Linux+Developer;Device+Driver+Enthusiast;System+Programming;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Embedded+Linux+Developer;Device+Driver+Enthusiast;System+Programming;Always+Learning+🚀" />
 </h1>
 
 <p align="center">
