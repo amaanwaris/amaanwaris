@@ -2,6 +2,24 @@
 
 <h3 align="center">🚀 Embedded Linux Developer | ⚙️ System Programmer | 💻 C/C++ Engineer</h3>
 
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:amaanwaris01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/mohammad-amaan-waris/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/amaanwaris">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;Linux+Kernel+Developer;System+Programming+Expert;Building+High-Performance+Systems+🚀" />
 </p>
@@ -90,7 +108,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaanwaris&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=amaanwaris&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -108,22 +126,6 @@
 ## 🎓 Education
 - 🎓 B.Tech in CSE (2022–2026)  
 - ⚡ Diploma in Electrical Engineering  
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:amaanwaris01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/mohammad-amaan-waris/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/amaanwaris">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
