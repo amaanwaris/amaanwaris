@@ -162,7 +162,9 @@
 
 <div style="background-color:#000000; padding:15px; border-radius:10px; border:1px solid #00F7FF;">
 - 🎓 B.Tech CSE - Maulana Azad National Urdu University (2022–2026)  
-- ⚡ Diploma in Electrical Engineering - Jamia Millia Islamia
+</div>
+<div style="background-color:#000000; padding:15px; border-radius:10px; border:1px solid #00F7FF;">
+- 🎓  Diploma in Electrical Engineering - Jamia Millia Islamia  
 </div>
 
 ---
@@ -171,6 +173,8 @@
 
 <div style="background-color:#000000; padding:15px; border-radius:10px; border:1px solid #00F7FF;">
 - 🚀 Founding Member - E-CELL MANUU  
+</div>
+<div style="background-color:#000000; padding:15px; border-radius:10px; border:1px solid #00F7FF;">
 - 🎯 Training & Placement Coordinator 
 </div>
 
