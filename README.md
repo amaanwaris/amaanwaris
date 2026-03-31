@@ -55,25 +55,56 @@
 
 ## 💻 PROJECT ARCHIVE
 
-### 🔐 Compression & Encryption Engine
-<div style="background-color:#000000; padding:15px; border-radius:10px; border:1px solid #00F7FF;">
-Bit-level encoding • 40–60% compression • Substitution + Permutation • ZIP/LZW/AES comparison
-</div>
 
-### ⚙️ Linux Character Driver
-<div style="background-color:#000000; padding:15px; border-radius:10px; border:1px solid #00F7FF;">
-Kernel module • IOCTL • kmalloc • copy_to_user • Mutex & Semaphores
-</div>
+### 🔐 Multiple Data Compression & Encryption
+<p align="center">
+  <a href="https://github.com/amaanwaris">
+    <img src="https://img.shields.io/badge/Compression-40--60%25-00D4FF?style=flat" />
+  </a>
+</p>
 
-### 🔗 High Performance IPC System
-<div style="background-color:#000000; padding:15px; border-radius:10px; border:1px solid #00F7FF;">
-55K+ clients • Shared Memory • FIFO • MQ • Multithreading
-</div>
+- Custom *bit-level encoding* compression  
+- *Substitution + Permutation* encryption  
+- Compared with *ZIP, LZW & AES*
 
-### 🌐 Socket-Based Distributed System
-<div style="background-color:#000000; padding:15px; border-radius:10px; border:1px solid #00F7FF;">
-30K+ clients • TCP/IP • Thread-based scaling
-</div>
+
+### ⚙️ Linux Character Device Driver
+<p align="center">
+  <img src="https://img.shields.io/badge/Kernel%20Driver-Working-00FF88?style=flat&logo=linux&logoColor=black" />
+</p>
+
+- Full *character driver implementation*  
+- Used *kmalloc, copy_to_user, IOCTL*  
+- Applied *Mutex & Semaphores*
+  
+
+### 🔗 Client-Server using IPC
+<p align="center">
+  <img src="https://img.shields.io/badge/55K+%20Clients-FF6B35?style=flat&logo=cplusplus&logoColor=white" />
+</p>
+
+- Used *Shared Memory, FIFO, Message Queues*  
+- Handled *55,000+ concurrent clients*  
+- Implemented *multithreading (pthreads)*  
+
+
+### 🌐 Client-Server using Sockets
+<p align="center">
+  <img src="https://img.shields.io/badge/30K+%20Clients-FF6B35?style=flat&logo=cplusplus&logoColor=white" />
+</p>
+
+- Built scalable system handling *30,000+ clients*  
+- Used *TCP/IP socket programming*  
+- Applied *thread-based concurrency*
+
+  
+### 📚 Library Management System (C++)
+
+- OOP-based system using *inheritance & polymorphism*  
+- File handling using .dat files  
+- Implemented *check-in / check-out system*
+  
+
 
 ---
 
