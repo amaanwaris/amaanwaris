@@ -9,6 +9,10 @@
 </p>
 
 ---
+## 📫 Connect With Me
+<p align="center"> <a href="mailto:amaanwaris01@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/mohammad-amaan-waris/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/amaanwaris"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+
+---
 
 ## 🚀 About Me
 - 🔧 Passionate about **Embedded Linux & Device Driver Development**
@@ -82,9 +86,9 @@
 
 ## 📊 GitHub Stats
 
-![Amaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaanwari&show_icons=true&theme=tokyonight)
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amaanwaris&show_icons=true&theme=tokyonight&hide_border=true" /> </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaanwaris&layout=compact&theme=tokyonight)
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amaanwaris&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 
@@ -100,8 +104,10 @@
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: amaanwaris01@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/mohammad-amaan-waris/
-- 🐙 GitHub: https://github.com/amaanwaris
- use this and make attrative Readm for my github repo. i copy paste your code  .
+## 🧠 Profile Views 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amaanwaris&label=Profile%20views&color=0e75b6&style=flat" /> </p> 
+
+--- 
+
+<p align="center"> ⚡ <b>"Building low-level systems that power high-level innovation"</b> </p>
+
