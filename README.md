@@ -82,9 +82,9 @@
 
 ## 📊 GitHub Stats
 
-![Amaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Amaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaanwari&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaanwaris&layout=compact&theme=tokyonight)
 
 ---
 
@@ -102,5 +102,5 @@
 
 ## 📫 Connect With Me
 - 📧 Email: amaanwaris01@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 🐙 GitHub: https://github.com/YOUR_USERNAME
+- 💼 LinkedIn: https://linkedin.com/in/mohammad-amaan-waris/
+- 🐙 GitHub: https://github.com/amaanwaris
