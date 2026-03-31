@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Tech Skill
 - 🔧 Passionate about **Embedded Linux & Device Driver Development**
 - ⚙️ Strong in **System Programming (IPC, Threads, Synchronization)**
 - 🧠 Building **Compression & Encryption Systems**
