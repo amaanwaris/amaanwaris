@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="mailto:amaanwaris01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/mohammad-amaan-waris/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/amaanwaris">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -27,13 +27,14 @@
 ---
 
 ## 🧑‍💻 About Me
+
 ✨ Passionate about building **low-level, high-performance systems**
 
-- 🔧 Working on **Linux Kernel & Device Drivers**
-- ⚙️ Strong in **System Programming (IPC, Threads, Sync)**
-- 🧠 Currently developing **Character Device Driver**
-- 🐧 Hands-on with **Linux Internals**
-- 🎯 Targeting roles in **Embedded / System Engineering**
+- 🔧 Linux Kernel & Device Driver Development  
+- ⚙️ System Programming (IPC, Threads, Sync)  
+- 🧠 Working on Character Device Driver  
+- 🐧 Linux Internals & OS Concepts  
+- 🎯 Goal: Embedded / System Engineer  
 
 ---
 
@@ -48,67 +49,50 @@
 ## ⚙️ Core Expertise
 
 <p align="center">
-  🔹 POSIX Threads (pthreads) & Multi-threading <br>
-  🔹 IPC: Pipes | FIFO | Message Queues | Shared Memory <br>
-  🔹 Synchronization: Semaphores | Mutex Locks <br>
+  🔹 POSIX Threads (pthreads) <br>
+  🔹 IPC (Pipes, FIFO, Message Queues, Shared Memory) <br>
+  🔹 Synchronization (Semaphores, Mutex) <br>
   🔹 Socket Programming (TCP/UDP) <br>
-  🔹 Linux Kernel & Device Driver Development
+  🔹 Linux Kernel & Device Drivers
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 Multiple Data Compression & Encryption
-✨ Custom-built compression + security system  
+### 🔐 Compression & Encryption System
 - ⚡ 40–60% compression efficiency  
-- 🔒 Substitution + permutation encryption  
-- 🧠 Bit manipulation & optimized encoding  
-- 📊 Compared with ZIP, LZW, AES  
+- 🔒 Secure encryption (substitution + permutation)  
+- 🧠 Bit-level optimization  
 
 ---
 
 ### ⚙️ Linux Character Device Driver
-✨ Kernel-level programming project  
-- 🧩 Built & registered kernel module  
-- 🔁 open | read | write | release  
+- 🧩 Kernel module development  
+- 🔁 open, read, write, release  
 - 🧠 kmalloc, IOCTL, copy_to_user  
-- 🔒 Mutex & semaphore synchronization  
+- 🔒 Synchronization applied  
 
 ---
 
-### 🔗 High-Performance IPC System
-✨ Scalable system-level architecture  
+### 🔗 IPC-Based High Performance System
 - 🚀 55,000+ concurrent clients  
-- ⚡ Shared Memory, FIFO, Message Queues  
-- 🧵 Multi-threaded using pthreads  
+- ⚡ Shared Memory + Message Queues  
+- 🧵 Multi-threaded  
 
 ---
 
-### 🌐 Client-Server using Sockets
-✨ Network-based concurrent system  
-- 🌍 30,000+ connections handled  
-- 🔗 TCP/IP socket programming  
+### 🌐 Socket-Based Client Server
+- 🌍 30,000+ connections  
+- 🔗 TCP/IP sockets  
 - ⚙️ Multi-threaded design  
 
 ---
 
-### 📚 Library Management System
-✨ OOP-based application  
-- 🧠 Inheritance & polymorphism  
-- 💾 File handling system  
-- 🔄 Real-time tracking  
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amaanwaris&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amaanwaris&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -124,8 +108,16 @@
 ---
 
 ## 🎓 Education
-- 🎓 B.Tech in CSE (2022–2026)  
-- ⚡ Diploma in Electrical Engineering  
+- 🎓 B.Tech CSE (2022–2026)  
+- ⚡ Diploma Electrical Engineering  
+
+---
+
+## 🧠 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amaanwaris&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
