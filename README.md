@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=550&lines=Embedded+Linux+Developer;Device+Driver+Engineer;System+Programming;Linux+Kernel+Explorer;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=000080&center=true&vCenter=true&width=550&lines=Embedded+Linux+Developer;Device+Driver+Engineer;System+Programming;Linux+Kernel+Explorer;Always+Learning+🚀" />
 </p>
 
 ---
@@ -39,7 +39,6 @@
 > focus: Kernel | Drivers | IPC | Multithreading
 > building: Compression + Encryption Engine
 > learning: Deep Linux Internals
-> status: Ready for Internship ⚡
 ```
 
 </div>
