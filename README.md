@@ -1,170 +1,68 @@
-<h1 align="center">Hey there, I'm Mohammad Amaan Waris 👋</h1>
+<!-- 🔥 CYBERPUNK HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=250&section=header&text=MOHAMMAD%20AMAAN%20WARIS&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Embedded+Linux+Developer;Device+Driver+Enthusiast;System+Programming;Always+Learning+🚀" />
-</h1>
+<h3 align="center">
+⚡ Embedded Linux Engineer | 🐧 Kernel Developer | ⚙️ System Programmer
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Embedded%20Systems-00D4FF?style=for-the-badge&logo=c&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Linux%20Developer-00FF88?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/System%20Programmer-FF6B35?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=550&lines=Embedded+Linux+Developer;Device+Driver+Engineer;System+Programming+Expert;Linux+Kernel+Explorer;Always+Learning+🚀" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🧠 SYSTEM.LOG
 
-<p align="center">
-  <a href="mailto:amaanwaris01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-  </a>
-  <a href="https://linkedin.com/in/mohammad-amaan-waris/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
-  </a>
-  <a href="https://github.com/amaanwaris">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-  </a>
-</p>
+<div style="background-color:#000000; padding:20px; border-radius:15px; border:1px solid #00F7FF;">
 
----
-
-## 🚀 About Me
-
-- 🔧 Passionate about **Embedded Linux & Device Driver Development**
-- ⚙️ Strong in **System Programming (IPC, Threads, Synchronization)**
-- 🧠 Building **Compression & Encryption Systems**
-- 🌱 Exploring **Linux Kernel & Low-Level Programming**
-- 🤝 Open to **Internships & Collaboration**
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
-</p>
-
-### 🐧 Systems & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,cmake,gcc" />
-</p>
-
-### ⚙️ Core Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/POSIX%20Threads-00D4FF?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/IPC%20(Pipes%2C%20FIFO)-00FF88?style=flat&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Synchronization-FF6B35?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket%20Programming-9C27B0?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux%20Kernel-00F7FF?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Device%20Drivers-E91E63?style=flat&logo=c&logoColor=white" />
-</p>
-
----
-
-## 💻 Projects
-
-### 🔐 Multiple Data Compression & Encryption
-<p align="center">
-  <img src="https://img.shields.io/badge/Compression-40--60%25-00D4FF?style=flat" />
-</p>
-
-- Custom **bit-level encoding** compression  
-- **Substitution + Permutation** encryption  
-- Compared with **ZIP, LZW & AES**
-
----
-
-### ⚙️ Linux Character Device Driver
-<p align="center">
-  <img src="https://img.shields.io/badge/Kernel%20Driver-Working-00FF88?style=flat&logo=linux&logoColor=black" />
-</p>
-
-- Full **character driver implementation**  
-- Used **kmalloc, copy_to_user, IOCTL**  
-- Applied **Mutex & Semaphores**
-
----
-
-### 🔗 Client-Server using IPC
-<p align="center">
-  <img src="https://img.shields.io/badge/55K+%20Clients-FF6B35?style=flat&logo=cplusplus&logoColor=white" />
-</p>
-
-- Used **Shared Memory, FIFO, Message Queues**  
-- Handled **55,000+ concurrent clients**  
-- Implemented **multithreading (pthreads)**  
-
----
-
-### 🌐 Client-Server using Sockets
-
-<div style="background-color:#0d1117; padding:15px; border-radius:10px; border:1px solid #00F7FF;">
-⚡ 30,000+ clients handled<br>
-⚡ TCP/IP sockets<br>
-⚡ Thread-based concurrency
-</div>
-
----
-
-### 📚 Library Management System (C++)
-
-- OOP-based system using **inheritance & polymorphism**  
-- File handling using `.dat` files  
-- Implemented **check-in / check-out system**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaanwaris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaanwaris&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaanwaris&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" />
-</p>
-
----
-
-## 🎓 Education
-
-<div style="background-color:#0d1117; padding:15px; border-radius:10px; border:1px solid #00F7FF;">
-
-- 🎓 B.Tech CSE - Maulana Azad National Urdu University (2022–2026)  
-- ⚡ Diploma in Electrical Engineering - Jamia Millia Islamia  
+```bash
+> user: amaan_waris
+> role: Embedded Linux Developer
+> focus: Kernel | Drivers | IPC | Multithreading
+> building: Compression + Encryption Engine
+> learning: Deep Linux Internals
+> status: Ready for Internship ⚡
 
 </div>
 
----
+⚙️ TECH STACK
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,github,vscode,cmake,gcc&theme=dark" /> </p>
 
-## 🏆 Achievements
-
-<div style="background-color:#0d1117; padding:15px; border-radius:10px; border:1px solid #00F7FF;">
-
-- 🚀 Founding Member - E-CELL MANUU  
-- 🎯 Training & Placement Coordinator  
-
+⚡ CORE MODULES
+<div style="background-color:#000000; padding:15px; border-radius:15px; border:1px solid #00F7FF;">
+POSIX Threads (pthreads)
+IPC: Pipes, FIFO, Message Queues, Shared Memory
+Synchronization: Mutex, Semaphores
+Socket Programming (TCP/UDP)
+Linux System Programming
+Kernel & Device Driver Development
 </div>
 
----
+💻 PROJECT ARCHIVE
+🔐 Compression & Encryption Engine
+<div style="background-color:#000000; padding:15px; border-radius:10px; border:1px solid #00F7FF;"> Bit-level encoding • 40–60% compression • Substitution + Permutation • ZIP/LZW/AES comparison </div>
+⚙️ Linux Character Driver
+<div style="background-color:#000000; padding:15px; border-radius:10px; border:1px solid #00F7FF;"> Kernel module • IOCTL • kmalloc • copy_to_user • Mutex & Semaphores </div>
+🔗 High Performance IPC System
+<div style="background-color:#000000; padding:15px; border-radius:10px; border:1px solid #00F7FF;"> 55K+ clients • Shared Memory • FIFO • MQ • Multithreading </div>
+🌐 Socket-Based Distributed System
+<div style="background-color:#000000; padding:15px; border-radius:10px; border:1px solid #00F7FF;"> 30K+ clients • TCP/IP • Thread-based scaling </div>
 
-## 👁 Profile Views
+📊 SYSTEM STATS
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amaanwaris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaanwaris&theme=tokyonight&hide_border=true&background=000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaanwaris&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F7FF&text_color=ffffff" /> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amaanwaris&label=Profile%20Views&color=00F7FF&style=flat" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Building+low-level+systems+that+power+high-level+innovation;Think+in+C,+Control+the+System+⚡" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00F7FF&height=120&section=footer"/>
-</p>
+🐍 CONTRIBUTION SNAKE
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
+📈 CONTRIBUTION GRAPH
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=amaanwaris&theme=react-dark&bg_color=000000&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true" /> </p>
+📫 CONNECT
+<p align="center"> <a href="mailto:amaanwaris01@gmail.com"> <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/> </a> <a href="https://linkedin.com/in/mohammad-amaan-waris/"> <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/> </a> <a href="https://github.com/amaanwaris"> <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/> </a> </p>
+🎓 EDUCATION
+<div style="background-color:#000000; padding:15px; border-radius:10px; border:1px solid #00F7FF;"> B.Tech CSE - MANUU (2022–2026) Diploma EE - Jamia Millia Islamia </div>
+🏆 ACHIEVEMENTS
+<div style="background-color:#000000; padding:15px; border-radius:10px; border:1px solid #00F7FF;"> Founding Member - E-CELL MANUU Training & Placement Coordinator </div>
+👁 SYSTEM TRAFFIC
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amaanwaris&label=VISITORS&color=00F7FF&style=flat" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Building+low-level+systems+that+power+high-level+innovation;Think+in+C,+Control+the+Machine+⚡" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=120&section=footer"/> </p> ```
