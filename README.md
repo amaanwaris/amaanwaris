@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 - 🔧 Passionate about **Embedded Systems & Linux Kernel Development**
 - ⚙️ Strong in **System Programming (IPC, Threads, Synchronization)**
-- 🧠 Currently working on **Compression + Encryption Systems**
+- 🧠 Currently working on **Character Device Driver**
 - 🐧 Experienced in **Linux Internals & Device Drivers**
 - 🎯 Goal: Become a **Core System/Embedded Engineer**
 
