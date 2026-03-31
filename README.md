@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Embedded+Linux+Developer;Device+Driver+Enthusiast;System+Programming+Expert;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Embedded+Linux+Developer;Device+Driver+Enthusiast;System+Programming;Always+Learning+🚀" />
 </p>
 
 ---
