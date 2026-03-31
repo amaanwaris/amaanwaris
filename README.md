@@ -1,140 +1,106 @@
-<h1 align="center">Hi 👋, I'm Mohammad Amaan Waris</h1>
-
-<h3 align="center">🚀 Embedded Linux Developer | ⚙️ System Programmer | 💻 C/C++ Engineer</h3>
-
----
-
-## 📫 Connect With Me
+<h1 align="center">Hey there, I'm Mohammad Amaan Waris 👋</h1>
 
 <p align="center">
-  <a href="mailto:amaanwaris01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/mohammad-amaan-waris/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/amaanwaris">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  💻 Embedded Systems Engineer | 🐧 Linux Developer | ⚙️ System Programmer
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Embedded+Linux+Developer;Device+Driver+Enthusiast;System+Programming+Expert;Always+Learning+🚀" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;Linux+Kernel+Developer;System+Programming+Expert;Building+High-Performance+Systems+🚀" />
+## 🚀 About Me
+- 🔧 Passionate about **Embedded Linux & Device Driver Development**
+- ⚙️ Strong in **System Programming (IPC, Threads, Synchronization)**
+- 🧠 Building **Compression & Encryption Systems**
+- 🌱 Exploring **Linux Kernel & Low-Level Programming**
+- 🤝 Open to **Internships & Collaboration**
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
----
-
-## 🧑‍💻 About Me
-
-✨ Passionate about building **low-level, high-performance systems**
-
-- 🔧 Linux Kernel & Device Driver Development  
-- ⚙️ System Programming (IPC, Threads, Sync)  
-- 🧠 Working on Character Device Driver  
-- 🐧 Linux Internals & OS Concepts  
-- 🎯 Target: Embedded / System Engineer  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git,github,vscode" />
+### 🐧 Systems & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </p>
 
----
-
-## ⚙️ Core Expertise
-
-<p align="center">
-  🔹 POSIX Threads (pthreads) <br>
-  🔹 IPC (Pipes, FIFO, Message Queues, Shared Memory) <br>
-  🔹 Synchronization (Semaphores, Mutex) <br>
-  🔹 Socket Programming (TCP/UDP) <br>
-  🔹 Linux Kernel & Device Drivers
-</p>
+### ⚙️ Core Skills
+- POSIX Threads (pthreads)
+- IPC: Pipes, FIFO, Message Queues, Shared Memory
+- Synchronization: Semaphores, Mutex
+- Socket Programming (TCP/UDP)
+- Linux System Programming
+- Kernel & Device Driver Development
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Projects
 
-### 🔐 Compression & Encryption System  
-🔗 https://github.com/amaanwaris  
-- ⚡ 40–60% compression efficiency  
-- 🔒 Secure encryption  
-- 🧠 Bit-level optimization  
-
----
-
-### ⚙️ Linux Character Device Driver  
-🔗 https://github.com/amaanwaris  
-- 🧩 Kernel module development  
-- 🔁 open, read, write, release  
-- 🧠 kmalloc, IOCTL  
-- 🔒 Synchronization  
+### 🔐 Multiple Data Compression & Encryption
+- Designed custom compression using **bit-level encoding**
+- Achieved **40–60% compression efficiency**
+- Implemented **substitution + permutation encryption**
+- Compared with ZIP, LZW & AES
 
 ---
 
-### 🔗 IPC-Based High Performance System  
-🔗 https://github.com/amaanwaris  
-- 🚀 55,000+ clients  
-- ⚡ Shared Memory + MQ  
-- 🧵 Multi-threaded  
+### ⚙️ Linux Character Device Driver
+- Developed and registered **character driver in kernel**
+- Implemented **open, read, write, release**
+- Used **kmalloc, copy_to_user, IOCTL**
+- Applied **mutex/semaphores for synchronization**
 
 ---
 
-### 🌐 Socket-Based Client Server  
-🔗 https://github.com/amaanwaris  
-- 🌍 30,000+ connections  
-- 🔗 TCP/IP sockets  
-- ⚙️ Multi-threaded  
+### 🔗 Client-Server using IPC (High Performance)
+- Handled **55,000+ concurrent clients**
+- Used **Shared Memory, FIFO, Message Queues**
+- Implemented **multithreading using pthreads**
+
+---
+
+### 🌐 Client-Server using Sockets
+- Built scalable system handling **30,000+ clients**
+- Used **TCP/IP socket programming**
+- Applied **thread-based concurrency**
+
+---
+
+### 📚 Library Management System (C++)
+- OOP-based system using **inheritance & polymorphism**
+- File handling using `.dat` files
+- Implemented **check-in / check-out system**
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amaanwaris&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+![Amaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amaanwaris&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amaanwaris&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/amaanwaris/amaanwaris/blob/output/github-contribution-grid-snake.svg" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🎓 Education
-- 🎓 B.Tech CSE (2022–2026)  
-- ⚡ Diploma Electrical Engineering  
+- 🎓 B.Tech CSE - Maulana Azad National Urdu University (2022–2026)
+- ⚡ Diploma in Electrical Engineering - Jamia Millia Islamia
 
 ---
 
-## 🧠 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amaanwaris&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+## 🏆 Achievements
+- 🚀 Founding Member - E-CELL MANUU  
+- 🎯 Training & Placement Coordinator  
 
 ---
 
-<p align="center">
-  ⚡ <b>"Building low-level systems that power high-level innovation"</b>
-</p>
+## 📫 Connect With Me
+- 📧 Email: amaanwaris01@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- 🐙 GitHub: https://github.com/YOUR_USERNAME
