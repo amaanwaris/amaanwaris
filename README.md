@@ -34,7 +34,7 @@
 - ⚙️ System Programming (IPC, Threads, Sync)  
 - 🧠 Working on Character Device Driver  
 - 🐧 Linux Internals & OS Concepts  
-- 🎯 Goal: Embedded / System Engineer  
+- 🎯 Target: Embedded / System Engineer  
 
 ---
 
@@ -60,32 +60,36 @@
 
 ## 🚀 Featured Projects
 
-### 🔐 Compression & Encryption System
+### 🔐 Compression & Encryption System  
+🔗 https://github.com/amaanwaris  
 - ⚡ 40–60% compression efficiency  
-- 🔒 Secure encryption (substitution + permutation)  
+- 🔒 Secure encryption  
 - 🧠 Bit-level optimization  
 
 ---
 
-### ⚙️ Linux Character Device Driver
+### ⚙️ Linux Character Device Driver  
+🔗 https://github.com/amaanwaris  
 - 🧩 Kernel module development  
 - 🔁 open, read, write, release  
-- 🧠 kmalloc, IOCTL, copy_to_user  
-- 🔒 Synchronization applied  
+- 🧠 kmalloc, IOCTL  
+- 🔒 Synchronization  
 
 ---
 
-### 🔗 IPC-Based High Performance System
-- 🚀 55,000+ concurrent clients  
-- ⚡ Shared Memory + Message Queues  
+### 🔗 IPC-Based High Performance System  
+🔗 https://github.com/amaanwaris  
+- 🚀 55,000+ clients  
+- ⚡ Shared Memory + MQ  
 - 🧵 Multi-threaded  
 
 ---
 
-### 🌐 Socket-Based Client Server
+### 🌐 Socket-Based Client Server  
+🔗 https://github.com/amaanwaris  
 - 🌍 30,000+ connections  
 - 🔗 TCP/IP sockets  
-- ⚙️ Multi-threaded design  
+- ⚙️ Multi-threaded  
 
 ---
 
@@ -101,9 +105,19 @@
 
 ---
 
-## 🏆 Achievements
-- 🚀 Founding Member - E-CELL MANUU  
-- 🎯 Training & Placement Coordinator  
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amaanwaris&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/amaanwaris/amaanwaris/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
