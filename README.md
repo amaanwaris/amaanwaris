@@ -12,6 +12,22 @@
 </p>
 
 ---
+## 📫 CONNECT
+
+<p align="center">
+  <a href="mailto:amaanwaris01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://linkedin.com/in/mohammad-amaan-waris/">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://github.com/amaanwaris">
+    <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
+
+---
+
 
 ## 🧠 SYSTEM.LOG
 
@@ -140,27 +156,13 @@
 
 ---
 
-## 📫 CONNECT
 
-<p align="center">
-  <a href="mailto:amaanwaris01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-  <a href="https://linkedin.com/in/mohammad-amaan-waris/">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="https://github.com/amaanwaris">
-    <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-</p>
-
----
 
 ## 🎓 EDUCATION
 
 <div style="background-color:#000000; padding:15px; border-radius:10px; border:1px solid #00F7FF;">
-B.Tech CSE - MANUU (2022–2026)  
-Diploma EE - Jamia Millia Islamia  
+- 🎓 B.Tech CSE - Maulana Azad National Urdu University (2022–2026)  
+- ⚡ Diploma in Electrical Engineering - Jamia Millia Islamia
 </div>
 
 ---
@@ -168,8 +170,8 @@ Diploma EE - Jamia Millia Islamia
 ## 🏆 ACHIEVEMENTS
 
 <div style="background-color:#000000; padding:15px; border-radius:10px; border:1px solid #00F7FF;">
-Founding Member - E-CELL MANUU  
-Training & Placement Coordinator  
+- 🚀 Founding Member - E-CELL MANUU  
+- 🎯 Training & Placement Coordinator 
 </div>
 
 ---
