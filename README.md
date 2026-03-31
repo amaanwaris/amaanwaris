@@ -1,43 +1,40 @@
 <h1 align="center">Hi 👋, I'm Mohammad Amaan Waris</h1>
 
-<p align="center">
-  🚀 Embedded Linux Developer | ⚙️ System Programmer | 💻 C/C++ Engineer
-</p>
+<h3 align="center">🚀 Embedded Linux Developer | ⚙️ System Programmer | 💻 C/C++ Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Embedded+Systems+Engineer;Linux+Kernel+Enthusiast;System+Programming;Building+Scalable+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;Linux+Kernel+Developer;System+Programming+Expert;Building+High-Performance+Systems+🚀" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔧 Passionate about **Embedded Systems & Linux Kernel Development**
-- ⚙️ Strong in **System Programming (IPC, Threads, Synchronization)**
-- 🧠 Currently working on **Character Device Driver**
-- 🐧 Experienced in **Linux Internals & Device Drivers**
-- 🎯 Goal: Become a **Core System/Embedded Engineer**
+✨ Passionate about building **low-level, high-performance systems**
+
+- 🔧 Working on **Linux Kernel & Device Drivers**
+- ⚙️ Strong in **System Programming (IPC, Threads, Sync)**
+- 🧠 Currently developing **Character Device Driver**
+- 🐧 Hands-on with **Linux Internals**
+- 🎯 Targeting roles in **Embedded / System Engineering**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git,github,vscode" />
 </p>
 
-### 🐧 Systems & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash" />
-</p>
+---
 
-### ⚙️ Core Expertise
+## ⚙️ Core Expertise
+
 <p align="center">
-  🔹 POSIX Threads (pthreads)  
-  🔹 IPC (Pipes, FIFO, Message Queues, Shared Memory)  
-  🔹 Synchronization (Semaphores, Mutex Locks)  
-  🔹 Socket Programming (TCP/UDP)  
-  🔹 Linux Kernel & Device Drivers  
+  🔹 POSIX Threads (pthreads) & Multi-threading <br>
+  🔹 IPC: Pipes | FIFO | Message Queues | Shared Memory <br>
+  🔹 Synchronization: Semaphores | Mutex Locks <br>
+  🔹 Socket Programming (TCP/UDP) <br>
+  🔹 Linux Kernel & Device Driver Development
 </p>
 
 ---
@@ -45,90 +42,91 @@
 ## 🚀 Featured Projects
 
 ### 🔐 Multiple Data Compression & Encryption
-- ⚡ Achieved **40–60% compression efficiency**
-- 🔒 Applied **substitution + permutation encryption**
-- 🧠 Used **bit manipulation & hash maps**
-- 📊 Benchmarked with **ZIP, LZW, AES**
+✨ Custom-built compression + security system  
+- ⚡ 40–60% compression efficiency  
+- 🔒 Substitution + permutation encryption  
+- 🧠 Bit manipulation & optimized encoding  
+- 📊 Compared with ZIP, LZW, AES  
 
 ---
 
 ### ⚙️ Linux Character Device Driver
-- 🧩 Built and registered **kernel module driver**
-- 🔁 Implemented **open, read, write, release**
-- 🧠 Used **kmalloc, IOCTL, copy_to_user**
-- 🔒 Applied **mutex/semaphore synchronization**
+✨ Kernel-level programming project  
+- 🧩 Built & registered kernel module  
+- 🔁 open | read | write | release  
+- 🧠 kmalloc, IOCTL, copy_to_user  
+- 🔒 Mutex & semaphore synchronization  
 
 ---
 
 ### 🔗 High-Performance IPC System
-- 🚀 Supported **55,000+ concurrent clients**
-- ⚡ Used **Shared Memory, FIFO, Message Queues**
-- 🧵 Multi-threading using **pthreads**
+✨ Scalable system-level architecture  
+- 🚀 55,000+ concurrent clients  
+- ⚡ Shared Memory, FIFO, Message Queues  
+- 🧵 Multi-threaded using pthreads  
 
 ---
 
 ### 🌐 Client-Server using Sockets
-- 🌍 Handled **30,000+ connections**
-- 🔗 Built using **TCP/IP socket programming**
-- ⚙️ Multi-threaded architecture
+✨ Network-based concurrent system  
+- 🌍 30,000+ connections handled  
+- 🔗 TCP/IP socket programming  
+- ⚙️ Multi-threaded design  
 
 ---
 
 ### 📚 Library Management System
-- 🧠 OOP-based design using **C++**
-- 💾 File handling using `.dat`
-- 🔄 Implemented real-time tracking system
+✨ OOP-based application  
+- 🧠 Inheritance & polymorphism  
+- 💾 File handling system  
+- 🔄 Real-time tracking  
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amaanwaris&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amaanwaris&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaanwaris&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amaanwaris&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaanwaris&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaanwaris&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 Achievements
-- 🚀 Founding Member - E-CELL MANUU  
-- 🎯 Training & Placement Coordinator  
+- 🚀 Founding Member - E-CELL MANUU  
+- 🎯 Training & Placement Coordinator  
 
 ---
 
 ## 🎓 Education
-- 🎓 B.Tech in CSE (2022–2026)  
-- ⚡ Diploma in Electrical Engineering  
+- 🎓 B.Tech in CSE (2022–2026)  
+- ⚡ Diploma in Electrical Engineering  
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:amaanwaris01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/mohammad-amaan-waris/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/amaanwaris">
-    <img src="https://img.shields.io/badge/GitHub-000000.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="mailto:amaanwaris01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/mohammad-amaan-waris/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/amaanwaris">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  ⚡ "Building low-level systems that power high-level innovation"
+  ⚡ <b>"Building low-level systems that power high-level innovation"</b>
 </p>
-
-this is my read me for github please make this attractive . 
