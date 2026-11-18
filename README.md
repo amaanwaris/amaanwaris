@@ -21,22 +21,6 @@
 
 ---
 
-## 🧠 `SYSTEM.LOG`
-
-```bash
-┌──(amaan㉿linux)-[~]
-└─$ cat profile.conf
-
-user       = amaan_waris
-role       = Embedded Linux Developer
-focus      = Kernel | Drivers | IPC | Multithreading
-building   = Compression + Encryption Engine
-learning   = Deep Linux Internals
-status     = ● online · always learning 🚀
-```
-
----
-
 ## ⚙️ TECH STACK
 
 <p align="center">
