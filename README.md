@@ -149,21 +149,21 @@ status     = ● online · always learning 🚀
 
 ### 🔗 Client-Server using IPC
 
-<img src="https://img.shields.io/badge/55K+%20Clients-FF6B35?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/100K+%20Clients-FF6B35?style=flat-square&logo=cplusplus&logoColor=white" />
 
 - **Shared Memory, FIFO, Message Queues**
 - Multithreading using **POSIX Threads**
-- Handled **55,000+ concurrent clients**
+- Handled **100,000+ concurrent clients**
 
 ---
 
 ### 🌐 Client-Server using Sockets
 
-<img src="https://img.shields.io/badge/30K+%20Clients-FF6B35?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/100K+%20Clients-FF6B35?style=flat-square&logo=cplusplus&logoColor=white" />
 
 - **TCP/IP** socket programming
 - Thread-based concurrency
-- Scalable client-server architecture handling **30,000+ clients**
+- Scalable client-server architecture handling **100,000+ clients**
 
 <a href="https://github.com/amaanwaris/CLIENT-SERVER-COMMUNICATION-USING-SOCKETS"><img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black" /></a>
 
@@ -211,7 +211,7 @@ status     = ● online · always learning 🚀
 | 🎓 Degree | 🏫 Institute | 📅 Year |
 |:--|:--|:--:|
 | B.Tech CSE | Maulana Azad National Urdu University | 2022 – 2026 |
-| Diploma in Electrical Engineering | Jamia Millia Islamia | — |
+| Diploma in Electrical Engineering | Jamia Millia Islamia | 2019 - 2022 |
 
 ## 🏆 ACHIEVEMENTS
 
